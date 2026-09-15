@@ -147,6 +147,19 @@ pio run
 Код распространяется «как есть», без каких-либо гарантий.
 Использование в автомобиле — на ваш собственный риск.
 
+## Разработка кастомной электроники (Контакты)
+
+Я занимаюсь профессиональной разработкой и производством контрактной, автомобильной и кастомной электроники. Если вам требуется:
+- Проектирование устройств и печатных плат (от идеи до серии);
+- Реверс-инжиниринг и анализ автомобильных CAN-шин;
+- Портирование устаревших/дорогих проектов (STM32, AVR, PIC) на современные и дешевые платформы (CH32V, GD32, RP2040, ESP32);
+- Написание надежного встроенного ПО (Bare-metal / RTOS).
+
+**Связаться со мной:**
+- 📧 **Email:** [kozlovalex78@inbox.ru]
+- 💬 **DRIVE2:** [@alex-kozlov]
+- 🌐 **Портфолио / Сайт:** [https://22.aelectrik.ru]
+
 # CAN Adapter for Nissan Gear Selector (CH32V203C8T6)
 
 Firmware for the **CH32V203C8T6** microcontroller that reads the physical state of an automatic transmission gear selector (P / R / N / D / L / M2 / M3) and transmits the corresponding CAN frame into the vehicle's bus.
