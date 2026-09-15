@@ -1,3 +1,6 @@
+![CAN-адаптер селектора КПП Nissan](http://aelectrik.ru/wp-content/uploads/2025/05/gijoijmko.webp)
+
+
 # CAN-адаптер селектора КПП для Nissan (CH32V203C8T6)
 
 Прошивка для микроконтроллера **CH32V203C8T6**, которая читает состояние
@@ -159,6 +162,16 @@ pio run
 - 📧 **Email:** [kozlovalex78@inbox.ru]
 - 💬 **DRIVE2:** [@alex-kozlov]
 - 🌐 **Портфолио / Сайт:** [https://22.aelectrik.ru]
+
+## Дополнительные материалы
+
+Также являюсь автором статей по реверс-инжинирингу автомобильных блоков управления:
+- [Питание силовой части блока Denso](https://22.aelectrik.ru/stati/revers-inzhiniring-bloka-sertifikaci/)
+- [Питание цифровой части блока Denso](https://22.aelectrik.ru/stati/revers-inzhiniring-bloka-sertifikaci-2/)
+- [Подсмотрели обмен данными процессора и EEPROM S93C86](https://22.aelectrik.ru/stati/revers-inzhiniring-bloka-smart-key-toyota-chast-3-cif/)
+- [Обвязка CAN трансивера блока Denso](https://aelectrik.ru/stati/kak-podklyuchen-kan-transiver-v-bloke-denso/)
+- [Управление реле муфты кондиционера](https://aelectrik.ru/stati/revers-inzhiniring-yebu-fujitsu-ten-toyota-1nz-fe-2002-gg-tayny/)
+- и многих других
 
 # CAN Adapter for Nissan Gear Selector (CH32V203C8T6)
 
