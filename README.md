@@ -1,4 +1,4 @@
-![CAN-адаптер селектора КПП Nissan](http://aelectrik.ru/wp-content/uploads/2025/05/gijoijmko.webp)
+![CAN-адаптер селектора КПП Nissan](http://aelectrik.ru/wp-content/uploads/2026/09/IMG_20260915_121135_756-1382955422-scaled.webp)
 
 
 # CAN-адаптер селектора КПП для Nissan (CH32V203C8T6)
